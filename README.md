@@ -45,6 +45,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## GraphQL
 - [GraphqlController](https://github.com/Develop-Genesis/Graphql-Controller): Library to develop GraphQL apis in .Net
+- [JSONPlaceholder Graphql](https://github.com/pedrocastellanos/json-placeholder-graphql): A REST API conversion of JSONPlaceholder to GraphQL 
 
 ## Arduino & Pic related
 
@@ -218,6 +219,9 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [django-misclientes](https://github.com/dcruz1990/django-misclientes): A simple Django App to manage contracts and customers in companies.
 - [NStart](https://github.com/Pixely-Studios/NStart): Una solucion para estudios de videojuegos que necesiten una página para promocionar su estudio, sus productos y su equipo.
 - [Qvolax](https://github.com/ovillafuerte94/qvolax): Live Chat System with Ajax, PHP & MySQL
+- [pedri.to](https://github.com/pedrocastellanos/pedri.to): A modern URL shortener with Express and LowDB 
+- [wa.me-generator](https://github.com/pedrocastellanos/wa-me-generator): wa.me WhatsApp Link Generator 
+- [random-hex-generator](https://github.com/pedrocastellanos/random-hex-generator): Random Color Generator in Hexadecimal Format 
 
 ## Web Development
 
